@@ -18,9 +18,9 @@ email: agil@columbia.edu
 description: > # this means to ignore newlines until "baseurl:"
   Course: AHISG8439
   Class time: Fall 2017, Mondays 4-5:50
-  
 
-baseurl: "" # the subpath of your site, e.g. /blog
+
+baseurl: "/class-site" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: elotroalex
 github_username:  elotroalex
