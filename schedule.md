@@ -41,7 +41,7 @@ Week 2 | September 18
 
 ### Lab: General introduction to digital humanities
 
--   What is the history (or histories) of digital humanities? Why now? In this session we will survey a series of digital humanities projects and place them in the context of knowledge production in the 21^st^ century in general, and this class specifically.
+-   What is the history (or histories) of digital humanities? Why now? In this session we will survey a series of digital humanities projects and place them in the context of knowledge production in the 21st century in general, and this class specifically.
 
 ### Assignments:
 
