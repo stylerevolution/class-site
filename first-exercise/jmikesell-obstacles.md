@@ -1,6 +1,8 @@
-### Jodi Mikesell
-### Style Revolution
-### File #2
+--- 
+Title: File #2  
+Author: Jodi Mikesell  
+Date: September 18th, 2017
+---
 
 <center> <h1>__Obstacles__ </h1> </center>
 * I had forgotten to email my Github username to Prof. Gil and so I was unable to clone the class site. 
