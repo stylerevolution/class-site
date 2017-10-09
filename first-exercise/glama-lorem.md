@@ -10,6 +10,7 @@ date: October, 6th 2017
 
 #### bg2601@columbia.edu  
 
+<br>
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ingres%2C_Napoleon_on_his_Imperial_throne.jpg/300px-Ingres%2C_Napoleon_on_his_Imperial_throne.jpg)  
 _An imperial fashion victim_
@@ -47,11 +48,15 @@ Suspendisse volutpat sodales ante, vitae semper lectus luctus non. Praesent curs
 
 Donec ac lorem nibh. Maecenas mauris diam, finibus vel dolor quis, imperdiet placerat sem. Ut accumsan venenatis mi, eu ultrices felis volutpat quis. Curabitur eget nibh viverra, posuere neque eget, scelerisque dui. Quisque varius enim odio, eget semper metus consectetur in. [Suspendisse nibh est](http://www.moma.org/ "MoMA"), consequat vel sem et, varius sollicitudin neque. Vivamus sagittis eros a aliquam lobortis. **Ut vel ligula nec nunc dictum feugiat. Integer eu dui eu ante luctus aliquet**.
 
+<br>
+
 | Lorem         | Ipsum         | Dolor |
 | ------------- |:-------------:| -----:|
 | French        | baguette      |    10 |
 | British       | porridge      |    12 |
 | Basque        | piperade      |     1 |
+
+<br>
 
 ### Subsection 2
 
