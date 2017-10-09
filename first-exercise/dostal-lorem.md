@@ -1,3 +1,9 @@
+---
+Title: First Excercise
+Author: Zoe Dostal
+Date: October 10, 2017
+---
+
 # My First Exercise
 
 ### By Zoe Dostal
