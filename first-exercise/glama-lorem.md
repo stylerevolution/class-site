@@ -165,6 +165,6 @@ Etiam eget nibh sit amet est gravida eleifend. Quisque scelerisque nulla at risu
 ---
 
 [^1]: Footnote as it should be using Markdown syntax.  
-[2]: Footnote using regular square brackets according to an established convention for plaintext footnotes.  
+[2]: Footnote using regular square brackets.  
 <sup>3</sup> Footnote manually faked using an HTLM superscript tag.  
 <sup id="fn4">4. HTML Footnote <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup>
