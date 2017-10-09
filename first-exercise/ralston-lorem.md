@@ -36,7 +36,7 @@ In efficitur sem placerat, sagittis est vel, ornare lectus. Quisque sed laoreet 
 
 Nulla a magna eu felis pretium porta egestas vitae eros. Nunc porttitor commodo malesuada. In mattis vel erat vitae porta. Quisque varius augue enim, non viverra urna eleifend et. Aenean consectetur diam eget augue aliquet aliquam. Ut at libero scelerisque, euismod nisi sit amet, sollicitudin dui. Vestibulum dolor nunc, ornare nec tellus vel, dictum dictum mi.
 
-[^footnote]: Modernipsum dolor sit amet neoism socialist realism romanesque, geometric abstraction fluxus stuckism naturalism abstract expressionism, realism post-impressionism relational art synthetism neo-dada.
+[^1]: Modernipsum dolor sit amet neoism socialist realism romanesque, geometric abstraction fluxus stuckism naturalism abstract expressionism, realism post-impressionism relational art synthetism neo-dada.
 
 [^2]: The characteristic theme of Prinn’s analysis of the conceptualist paradigm of narrative is the rubicon, and subsequent stasis, of neosemantic class. Any number of narratives concerning not, in fact, materialism, but prematerialism may be found. However, Debord uses the term "subcultural theory" to denote the role of the artist as poet.
 
