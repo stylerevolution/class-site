@@ -1,9 +1,3 @@
----
-title: First Exercise: Fashion and the Museum
-author: Meghan Collins
-date: October 9, 2017
----
-
 # First Exercise: Fashion and the Museum
 
 ### Author: Meghan Marie Collins
