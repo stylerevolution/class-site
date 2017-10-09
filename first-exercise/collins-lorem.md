@@ -1,3 +1,9 @@
+---
+title: First Exercise: Fashion and the Museum
+author: Meghan Collins
+date: October 9, 2017
+---
+
 # First Exercise: Fashion and the Museum
 
 ### Author: Meghan Marie Collins
@@ -11,12 +17,12 @@ Cupcake ipsum dolor sit. Amet bear claw jelly marzipan marzipan chocolate cake m
 Pastry dessert biscuit candy canes caramels bonbon carrot cake sugar plum dessert. Jujubes sweet marzipan soufflé powder dessert. Halvah pudding soufflé cheesecake sugar plum macaroon jelly beans marzipan. Powder caramels liquorice chupa chups caramels powder. Lollipop tart macaroon jelly-o topping. Lemon drops sesame snaps muffin. Sweet roll donut jelly tootsie roll bonbon wafer chocolate cake. Fruitcake cake carrot cake croissant pastry. Oat cake ice cream pastry gummies jelly-o. Marzipan fruitcake chocolate cake. Cotton candy chocolate bar pudding topping brownie bear claw candy chocolate cake. Candy bear claw cake sugar plum cheesecake croissant pie brownie. Lemon drops gummies soufflé brownie cotton candy gummi bears chupa chups.
 
 
-### *Made in America* 
+### *I.I Made in America* 
 
 ![levi](https://www.moma.org/d/assets/W1siZiIsIjIwMTcvMDkvMTkvMXlycWxzdjU0XzYzOF9KZWFucy5qcGciXSxbInAiLCJjb252ZXJ0IiwiLXJlc2l6ZSAyMDAweDIwMDBcdTAwM2UiXV0/638-%20Jeans.jpg?sha=0275631cd13d4b33)
 Halvah bear claw jelly beans icing jujubes. Pudding lemon drops bear claw jujubes carrot cake sesame snaps dessert pudding chupa chups. Dessert macaroon croissant halvah ice cream tart. Marshmallow cake tootsie roll marzipan carrot cake biscuit cookie. Carrot cake apple pie cupcake halvah wafer. Donut toffee ice cream lollipop bonbon. Dragée jujubes soufflé dragée. Croissant gummi bears cheesecake macaroon topping cookie. Topping wafer chocolate cake candy halvah cake. Croissant ice cream danish candy canes topping candy canes gingerbread sweet. Muffin topping danish. Cupcake candy cake oat cake marshmallow cookie cookie. Powder bear claw fruitcake cheesecake lollipop.
 
-### *Fashion of the East* 
+### *I.II Fashion of the East* 
 
 ![sari moma](https://assets.vogue.com/photos/596faac8232f7123badefd9d/master/w_1320,c_limit/Sari_Malika1.jpg)
 Halvah bear claw jelly beans icing jujubes. Pudding lemon drops bear claw jujubes carrot cake sesame snaps dessert pudding chupa chups. Dessert macaroon croissant halvah ice cream tart. Marshmallow cake tootsie roll marzipan carrot cake biscuit cookie. Carrot cake apple pie cupcake halvah wafer. Donut toffee ice cream lollipop bonbon. Dragée jujubes soufflé dragée. Croissant gummi bears cheesecake macaroon topping cookie. Topping wafer chocolate cake candy halvah cake. Croissant ice cream danish candy canes topping candy canes gingerbread sweet. Muffin topping danish. Cupcake candy cake oat cake marshmallow cookie cookie. Powder bear claw fruitcake cheesecake lollipop.
