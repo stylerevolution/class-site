@@ -1,9 +1,9 @@
 ---
-Obstacles 
+layout: page
+title: Obstacles
+author: Sarah Bigler
+date: October 2, 2017
 ---
-Sarah Bigler
----
-October 2, 2017
 
 # **Overview/Response**
 This exercise went ok, most things proved to be more straightforward than I had anticipated and I found that if I worked slowly I was able to figure most things out. I also worked with my friend who works in tech to help me work through my initial panic and she was very encouraging that the whole process was mangeable and that I would be ok. 
