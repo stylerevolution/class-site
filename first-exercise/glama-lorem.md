@@ -1,3 +1,9 @@
+---
+title: Style Revolution
+author: Barthélemy Glama
+date: October, 6th 2017
+---
+
 # Style Revolution
 
 ### By Barthélemy Glama
