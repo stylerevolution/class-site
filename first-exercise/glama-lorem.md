@@ -9,7 +9,7 @@ date: October, 6th 2017
 ### By Barthélemy Glama
 
 #### bg2601@columbia.edu  
-</br>
+
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ingres%2C_Napoleon_on_his_Imperial_throne.jpg/300px-Ingres%2C_Napoleon_on_his_Imperial_throne.jpg)  
 _An imperial fashion victim_
@@ -165,6 +165,6 @@ Etiam eget nibh sit amet est gravida eleifend. Quisque scelerisque nulla at risu
 ---
 
 [^1]: Footnote as it should be using Markdown syntax.  
-[2]: Footnote using regular square brackets according to an established convention for plaintext footnotes.  
+[2]: Footnote using regular square brackets.  
 <sup>3</sup> Footnote manually faked using an HTLM superscript tag.  
 <sup id="fn4">4. HTML Footnote <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup>
