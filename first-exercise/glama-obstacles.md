@@ -1,3 +1,9 @@
+---
+title: Obstacles
+author: Barthélemy Glama
+date: October 6th, 2017
+---
+
 # First Exercise
 
 ## Obstacles
