@@ -4,6 +4,8 @@ author: Barthélemy Glama
 date: October, 6th 2017
 ---
 
+## Style Revolution
+
 ### By Barthélemy Glama
 
 #### bg2601@columbia.edu  
@@ -167,9 +169,9 @@ Vivamus mattis elementum auctor. Vivamus eget dolor et lectus luctus sodales. Nu
 
 Etiam eget nibh sit amet est gravida eleifend. Quisque scelerisque nulla at risus accumsan accumsan. Mauris sit amet tortor eros. Nunc vestibulum quam nec convallis blandit. Nulla sagittis lobortis ligula, ac posuere arcu. Nunc at augue venenatis, sagittis tellus vitae, vestibulum arcu. Vivamus varius nulla libero, ut auctor erat euismod quis. Donec a est quis dui auctor commodo. Nunc dapibus finibus enim, eu commodo sapien suscipit in. Mauris fringilla vulputate urna, at dignissim ligula tempus nec. Sed feugiat, erat vel convallis consequat, ipsum nibh tempus mauris, feugiat tempor turpis velit at nisl. Quisque suscipit diam id luctus efficitur. In vehicula nunc metus, fringilla faucibus.
 
----
+---  
 
-[^1]: Footnote as it should be using Markdown syntax.  
-[2]: Footnote using regular square brackets.  
-<sup>3</sup> Footnote manually faked using an HTLM superscript tag.  
+[^1]: Footnote 1.  
+[^2]: Footnote 2.  
+[^3]: Footnote 3.  
 <sup id="fn4">4. HTML Footnote <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup>
