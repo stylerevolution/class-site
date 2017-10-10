@@ -1,5 +1,5 @@
 ---
-title: Style Revolution
+title: First Exercise (Glama)
 author: Barthélemy Glama
 date: October, 6th 2017
 ---
@@ -13,9 +13,11 @@ date: October, 6th 2017
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ingres%2C_Napoleon_on_his_Imperial_throne.jpg/300px-Ingres%2C_Napoleon_on_his_Imperial_throne.jpg)  
 _An imperial fashion victim_
 
+[Class Schedule](https://stylerevolution.github.io/class-site/schedule/)
+
 ## Introduction
 
-`Lorem ipsum` dolor sit amet, consectetur adipiscing elit[^1]. Sed in luctus odio [2]. Etiam porta mattis erat tincidunt tempor<sup>3</sup>. Vestibulum vulputate quam id est pellentesque, sed posuere ligula gravida<sup><a href="#fn4" id="ref4">4</a></sup>. **Fusce at feugiat odio**. Phasellus sodales ultrices eros, quis viverra arcu feugiat eget. Maecenas imperdiet magna vitae nulla mollis *viverra*. Cras pretium lacus ac quam finibus scelerisque. [Etiam et venenatis ligula](http://www.moma.org/ "MoMA").
+`Lorem ipsum` dolor sit amet, consectetur adipiscing elit[^1]. Sed in luctus odio[^2]. Etiam porta mattis erat tincidunt tempore[^3]. Vestibulum vulputate quam id est pellentesque, sed posuere ligula gravida<sup><a href="#fn4" id="ref4">4</a></sup>. **Fusce at feugiat odio**. Phasellus sodales ultrices eros, quis viverra arcu feugiat eget. Maecenas imperdiet magna vitae nulla mollis *viverra*. Cras pretium lacus ac quam finibus scelerisque. [Etiam et venenatis ligula](http://www.moma.org/ "MoMA").
 
 #### Paragraph 1
 
