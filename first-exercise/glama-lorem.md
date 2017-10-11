@@ -8,7 +8,7 @@ date: October, 6th 2017
 
 ### By Barthélemy Glama
 
-#### bg2601@columbia.edu  
+#### [bg2601@columbia.edu](mailto:bg2601@columbia.edu)  
 
 <br>
 
