@@ -4,11 +4,13 @@ author: Barthélemy Glama
 date: October, 6th 2017
 ---
 
+<html>
 <center>
   <h1>Style Revolution</h1>
   <h3>by Barth&eacute;lemy Glama</h2>
   <h4><a href="mailto:bg2601@columbia.edu">bg2601@columbia.edu</a>
 </center>
+  </html>
 
 <br>
 
