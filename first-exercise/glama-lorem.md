@@ -5,7 +5,7 @@ date: October, 6th 2017
 ---
 
 <center>
-  <h2>Style Revolution</h2>
+  <h2><b>Style Revolution</b></h2>
   <h3>by Barth&eacute;lemy Glama</h3>
   <h4><a href="mailto:bg2601@columbia.edu">bg2601@columbia.edu</a></h4>
 </center>
