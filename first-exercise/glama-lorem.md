@@ -4,13 +4,15 @@ author: Barthélemy Glama
 date: October, 6th 2017
 ---
 
-<center>Au sujet du <i>Journal des Dames et des Modes</i></center>
-
-## Style Revolution
-
-### By Barthélemy Glama
-
-#### [bg2601@columbia.edu](mailto:bg2601@columbia.edu)  
+<center>
+  <h1>Style Revolution</h1>
+  <h3>by Barth&eacute;lemy Glama</h2>
+  <h4><a href="mailto:bg2601@columbia.edu">bg2601@columbia.edu</a>
+    
+    <br>
+    
+Au sujet du <i>Journal des Dames et des Modes</i>
+</center>
 
 <br>
 
