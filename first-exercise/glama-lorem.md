@@ -23,7 +23,7 @@ date: October, 6th 2017
 
 ## Introduction
 
-`Lorem ipsum` dolor sit amet, consectetur adipiscing elit[^1]. Sed in luctus odio[^2]. Etiam porta mattis erat tincidunt tempore[^3]. Vestibulum vulputate quam id est pellentesque, sed posuere ligula gravida<sup><a href="#fn4" id="ref4">4</a></sup>. **Fusce at feugiat odio**. Phasellus sodales ultrices eros, quis viverra arcu feugiat eget. Maecenas imperdiet magna vitae nulla mollis *viverra*. Cras pretium lacus ac quam finibus scelerisque. [Etiam et venenatis ligula](http://www.moma.org/ "MoMA").
+`Lorem ipsum` dolor sit amet, consectetur adipiscing elit[^1]. Sed in luctus odio[^2]. Etiam porta mattis erat tincidunt tempore[^3]. Vestibulum vulputate quam id est pellentesque, sed posuere ligula gravida[^4]. **Fusce at feugiat odio**. Phasellus sodales ultrices eros, quis viverra arcu feugiat eget. Maecenas imperdiet magna vitae nulla mollis *viverra*. Cras pretium lacus ac quam finibus scelerisque. [Etiam et venenatis ligula](http://www.moma.org/ "MoMA").
 
 #### Paragraph 1
 
@@ -178,4 +178,4 @@ Etiam eget nibh sit amet est gravida eleifend. Quisque scelerisque nulla at risu
 [^1]: Footnote 1.  
 [^2]: Footnote 2.  
 [^3]: Footnote 3.  
-<sup id="fn4">4. HTML Footnote <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup>
+[^4]: Footnote 4.
