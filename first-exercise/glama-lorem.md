@@ -12,6 +12,8 @@ date: October, 6th 2017
 
 <br>
 
+
+
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ingres%2C_Napoleon_on_his_Imperial_throne.jpg/300px-Ingres%2C_Napoleon_on_his_Imperial_throne.jpg)  
 _An imperial fashion victim_
 
