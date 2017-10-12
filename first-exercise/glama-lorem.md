@@ -12,8 +12,11 @@ date: October, 6th 2017
 
 <br>
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ingres%2C_Napoleon_on_his_Imperial_throne.jpg/300px-Ingres%2C_Napoleon_on_his_Imperial_throne.jpg)  
-_An imperial fashion victim_
+<center><table class="image">
+  <caption align="bottom"><i>An imperial fashion victim</i></caption>
+<tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ingres%2C_Napoleon_on_his_Imperial_throne.jpg/300px-Ingres%2C_Napoleon_on_his_Imperial_throne.jpg" alt="An imperial fashion victim"></td></tr>
+</table></center>
+
 
 [Class Schedule](https://stylerevolution.github.io/class-site/schedule/)
 
