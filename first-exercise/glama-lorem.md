@@ -4,6 +4,8 @@ author: Barthélemy Glama
 date: October, 6th 2017
 ---
 
+<center>Au sujet du <i>Journal des Dames et des Modes</i></center>
+
 ## Style Revolution
 
 ### By Barthélemy Glama
