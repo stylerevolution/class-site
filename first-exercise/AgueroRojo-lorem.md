@@ -4,7 +4,7 @@ author: Ana Karen Aguero Rojo
 date: October 6th, 2017
 ---
 
-# AgueroRojo-lorem.md
+# aguerorojo-lorem.md
 First-Exercise
 
 
@@ -41,7 +41,7 @@ Suspendisse elementum pellentesque ullamcorper. Praesent mattis mattis augue sit
 
 Morbi eu euismod est. Aliquam in leo dictum, tempus arcu vulputate, tristique ipsum. Donec et placerat lectus. Cras sagittis elit ut magna placerat, in laoreet purus feugiat. Etiam venenatis risus at ante varius mollis. Curabitur laoreet ut erat quis tempus. Ut facilisis faucibus erat, nec fringilla quam aliquet a. Nam in suscipit leo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque lacinia magna non nulla rhoncus gravida. Duis vitae ultricies sapien. Nam neque ligula, sagittis id euismod et, consequat sit amet enim. Maecenas consequat quam leo, quis tincidunt magna lacinia vitae.
 
-## Section 3.2 [^footnote]
+## Section 3.2 [^F1]
 Donec porta eleifend odio, ac porta arcu suscipit non. Integer euismod metus eget nibh cursus, sit amet egestas nibh rhoncus. Vivamus sollicitudin ligula cursus, elementum lorem non, hendrerit libero. Curabitur at commodo libero, gravida dictum est. Mauris id tincidunt risus. Sed dictum, magna eget lobortis pulvinar, est arcu volutpat velit, ut luctus ex sapien non felis. Nulla dictum est quis nibh facilisis tristique. Quisque ipsum odio, euismod sit amet aliquet ut, tempor nec est. Proin dapibus mauris sit amet ex aliquam, sit amet fringilla massa gravida. Vestibulum eget molestie turpis, id ultrices libero. Curabitur tempor gravida ante. In hac habitasse platea dictumst. Etiam at ullamcorper urna, in consequat felis.
 
 Donec rhoncus, eros quis venenatis accumsan, lorem nibh mollis odio, vitae lacinia leo turpis sit amet eros. Duis ut arcu nec mi dignissim malesuada. Sed quis scelerisque arcu. Etiam diam elit, ornare eget dictum in, vulputate ut nibh. Donec tortor nisi, tincidunt ac malesuada ac, luctus vel nunc. Nulla tempus luctus lorem sed euismod. Donec nec eros finibus diam posuere hendrerit vitae commodo nibh. Quisque rutrum vulputate urna id dignissim. Proin consectetur tortor malesuada purus ultricies laoreet. Suspendisse potenti. Proin at mollis purus, vitae elementum metus. Sed quis dolor hendrerit, facilisis ligula facilisis, tincidunt arcu. Aliquam dapibus erat vitae malesuada tempus. Duis elementum varius risus, nec viverra mauris vehicula vel. Etiam ut mauris in sapien maximus luctus. Suspendisse potenti.
@@ -66,7 +66,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ligula elit, iacu
 Fusce commodo tincidunt nisl, ac sollicitudin eros mattis rutrum. Aenean consequat pellentesque sapien, ac pellentesque ipsum ornare a. Nam hendrerit imperdiet orci, quis rhoncus sapien accumsan in. Morbi dignissim auctor mi non commodo. Nullam vel sem eget lectus semper scelerisque. Curabitur commodo iaculis est, vel interdum tortor vulputate et. Etiam euismod leo eget mi laoreet, non fermentum ipsum ultricies. Donec sed augue ut diam congue auctor. Phasellus iaculis arcu at feugiat rutrum. Nulla mattis tortor quis tempus ultricies. Praesent quis quam mattis, lobortis tortor vel, pretium nisl.
 
 ### Image
-![image](https://es.pinterest.com/pin/511299363937408498/)
+![image](https://i.pinimg.com/564x/87/d6/52/87d652368c31f9aa8f8b1acbb86430a5.jpg)
 
 # Section 5 
 Etiam eu felis vitae quam aliquam egestas in non nibh. Praesent ipsum erat, iaculis a sem placerat, dignissim hendrerit nisl. Praesent eros tellus, laoreet a blandit quis, maximus a lacus. Ut bibendum a magna nec dignissim. Donec iaculis est at consectetur mollis. Vestibulum maximus, mauris id consectetur rutrum, quam elit cursus ligula, eu tempus nunc ligula vitae magna. Ut lorem eros, varius ut blandit quis, ornare et leo. Praesent aliquam ex erat. Quisque tempus erat ex, in mollis quam tempor id. Fusce vel sem et neque scelerisque ultrices.
@@ -78,7 +78,7 @@ Proin a rutrum neque. Phasellus nec tempor eros. Vivamus ut egestas erat. Nulla 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lacus augue, rhoncus eget tortor et, tempor dignissim tellus. Proin sed lobortis est, et placerat enim. Suspendisse potenti. Nunc bibendum suscipit magna in vehicula. Morbi bibendum malesuada arcu eu varius. Quisque eget ex scelerisque, commodo mi at, iaculis elit. Nulla suscipit ultrices erat vel convallis. Morbi leo leo, lacinia a congue quis, pellentesque ut arcu. Duis fermentum arcu nec arcu commodo, sodales posuere enim scelerisque. Aenean erat eros, vehicula eu enim vel, ultricies consequat turpis. Cras consectetur ex nec arcu consequat, sit amet dictum nunc mattis. Proin cursus mauris et elit imperdiet vulputate. Sed vel consequat lectus. Pellentesque condimentum ac augue vitae accumsan. Praesent lacus nibh, vestibulum a bibendum ac, congue vel libero.
 
 ### Image2
-![image](http://www.gettyimages.com/album/vintage-red-white-and-blue-from-the-condé-nast-the-one-thing-that--LBOuiphlq0uZMNhqDBxSDQ?#vogue-red-white-and-blue-logo-illustration-of-woman-in-gold-gown-the-picture-id592330323)
+![image](http://media.gettyimages.com/photos/vogue-red-white-and-blue-logo-illustration-of-woman-in-gold-gown-the-picture-id592330323)
 
 # Section 6 
 Duis sodales justo sit amet est suscipit, sollicitudin finibus ex imperdiet. In quam justo, dapibus vitae felis at, volutpat varius lectus. Maecenas sagittis metus at velit sollicitudin vulputate. Sed volutpat enim nec porta pulvinar. Ut laoreet lorem sit amet orci sagittis, in dignissim dolor placerat. Duis nec nibh consectetur, eleifend risus non, cursus diam. Phasellus gravida, sem a scelerisque sollicitudin, ex sem iaculis mi, quis aliquet sapien nisl vitae lacus. In eget interdum ante. Donec at quam mauris. Nunc luctus diam leo, et mollis est efficitur sit amet [^footnote2].
@@ -93,8 +93,8 @@ Curabitur eget risus ut sapien tincidunt lobortis sagittis ut turpis. Donec id a
 
 Vestibulum vitae magna aliquet, blandit tortor in, porttitor ex. Integer et fermentum nulla. Duis in mauris feugiat, cursus risus id, lobortis purus. In condimentum euismod libero dignissim vulputate. Nam vel imperdiet risus. Fusce ac est quis nibh tempor tempus id et dolor. Donec quis elementum enim, sed elementum mi. Donec nec aliquam nibh. Maecenas euismod et.
 
-[^footnote]:HOW, [TO ADD FOOTNOTES](https://stackoverflow.com/questions/25579868/how-to-add-footnotes-to-github-flavoured-markdown)
+[^F1]:F1, [TO ADD FOOTNOTES](https://stackoverflow.com/questions/25579868/how-to-add-footnotes-to-github-flavoured-markdown)
 
 
-[^footnote2]: Footnote2, [FOOTNOTE2](https://stackoverflow.com/questions/25579868/how-to-add-footnotes-to-github-flavoured-markdown)
+[^F2]:F2, [FOOTNOTE2](https://stackoverflow.com/questions/25579868/how-to-add-footnotes-to-github-flavoured-markdown)
 
