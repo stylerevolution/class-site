@@ -4,7 +4,7 @@ author: Ana Karen Aguero Rojo
 date: October 6th, 2017
 ---
 
-# AgueroRojo-lorem.md
+# aguerorojo-lorem.md
 First-Exercise
 
 
