@@ -23,21 +23,23 @@ Mauris rhoncus aenean vel elit scelerisque. Malesuada nunc vel risus commodo viv
 
 ## Section 4: Celebrities You Didn't Realize were in Harry Potter
 
-![Alt text](< width="560" height="315" src="https://www.youtube.com/embed/YerQ1lYejNc" frameborder="0" allowfullscreen></>)
+<a href="https://www.youtube.com/watch?v=YerQ1lYejNc&t=11s
+" target="_blank"><img src="http://img.youtube.com/watch?v=YerQ1lYejNc&t=11s.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### Subsection 4.1: How is this related to Revolutionary Fashion History?
 It isn't. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Sed tempus urna et pharetra pharetra massa massa. Et egestas quis ipsum suspendisse ultrices gravida. Vivamus arcu felis bibendum ut tristique. Volutpat ac tincidunt vitae semper quis lectus. Enim facilisis gravida neque convallis. Molestie ac feugiat sed lectus vestibulum mattis ullamcorper. Amet nisl suscipit adipiscing bibendum est ultricies integer quis auctor. Nisi lacus sed viverra tellus in hac habitasse. Enim ut tellus elementum sagittis vitae et.
 
-Nisl rhoncus mattis rhoncus urna neque viverra. Non pulvinar neque laoreet suspendisse interdum. Quis auctor elit sed vulputate. Metus vulputate eu scelerisque felis imperdiet proin. Urna cursus eget nunc scelerisque viverra mauris in aliquam. Interdum posuere lorem ipsum dolor. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare. Massa vitae tortor condimentum lacinia quis. Vel quam elementum pulvinar etiam non quam lacus suspendisse. Volutpat ac tincidunt vitae semper quis lectus nulla at volutpat. Neque sodales ut etiam sit amet nisl purus in mollis. Et leo duis ut diam quam nulla. Quisque egestas diam in arcu cursus. [^2]
+Nisl rhoncus mattis rhoncus urna neque viverra. Non pulvinar neque laoreet suspendisse interdum. Quis auctor elit sed vulputate. Metus vulputate eu scelerisque felis imperdiet proin. Urna cursus eget nunc scelerisque viverra mauris in aliquam. Interdum posuere lorem ipsum dolor. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare. Massa vitae tortor condimentum lacinia quis. Vel quam elementum pulvinar etiam non quam lacus suspendisse. Volutpat ac tincidunt vitae semper quis lectus nulla at volutpat. Neque sodales ut etiam sit amet nisl purus in mollis. Et leo duis ut diam quam nulla. 
+Quisque egestas diam in arcu cursus. 
 
 
-
-Commodo nulla facilisi nullam vehicula ipsum a arcu. Id faucibus nisl tincidunt eget nullam non. Morbi tristique senectus et netus et malesuada fames ac turpis. Lorem mollis aliquam ut porttitor leo. [2^] Dis parturient montes nascetur ridiculus mus. Sem nulla pharetra diam sit. Pharetra diam sit amet nisl suscipit. Mattis molestie a iaculis at erat. Mauris ultrices eros in cursus turpis massa. Et netus et malesuada fames ac turpis. In hendrerit gravida rutrum quisque. In cursus turpis massa tincidunt dui ut ornare lectus. Mattis enim ut tellus elementum sagittis. Pulvinar sapien et ligula ullamcorper malesuada proin libero nunc. Tincidunt augue interdum velit euismod in pellentesque massa placerat duis. Pulvinar sapien et ligula ullamcorper malesuada proin.
+Commodo nulla facilisi nullam vehicula ipsum a arcu. Id faucibus nisl tincidunt eget nullam non. Morbi tristique senectus et netus et malesuada fames ac turpis. Lorem mollis aliquam ut porttitor leo. Dis parturient montes nascetur ridiculus mus. Sem nulla pharetra diam sit. Pharetra diam sit amet nisl suscipit. Mattis molestie a iaculis at erat. Mauris ultrices eros in cursus turpis massa. Et netus et malesuada fames ac turpis. In hendrerit gravida rutrum quisque. In cursus turpis massa tincidunt dui ut ornare lectus. Mattis enim ut tellus elementum sagittis. Pulvinar sapien et ligula ullamcorper malesuada proin libero nunc. Tincidunt augue interdum velit euismod in pellentesque massa placerat duis. Pulvinar sapien et ligula ullamcorper malesuada proin.
 
 ## Generator Links
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.[Lorem Ipsum Generator](https://loremipsumgenerator.com/generator/?n=4&t=)
 
-[^1]:[LMFGTFY](http://www.lmfgtfy.com)
+[^1][LMFGTFY](http://www.lmfgtfy.com)[^1] 
 
 Toad-like smile Flourish and Blotts he knew I’d come back Quidditch World Cup. Fat Lady baubles banana fritters fairy lights Petrificus Totalus. So thirsty, deluminator firs’ years follow me 12 inches of parchment. Head Boy start-of-term banquet Cleansweep Seven roaring lion hat. Unicorn blood crossbow mars is bright tonight, feast Norwegian Ridgeback. Come seek us where our voices sound, we cannot sing above the ground, Ginny Weasley bright red. Fanged frisbees, phoenix tears good clean match.[Harry Poter Ipsum Generator](http://www.christinachern.com/hpipsum/)
 
@@ -46,11 +48,7 @@ Toad-like smile Flourish and Blotts he knew I’d come back Quidditch World Cup.
     <li id="fn:1">
       <p>my first footnote! And a <a href="http://www.lmfgtfy.com">link</a>. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
     </li>
-    <li id="fn:2">
-      <p>Footnote 2 <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:3">
-      <p>Footnote 3 <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
+    <</a></p>
     </li>
   </ol>
 </div>
