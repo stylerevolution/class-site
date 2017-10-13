@@ -25,7 +25,7 @@ Mauris rhoncus aenean vel elit scelerisque. Malesuada nunc vel risus commodo viv
 
 <a href="https://www.youtube.com/watch?v=YerQ1lYejNc&t=11s
 " target="_blank"><img src="http://img.youtube.com/watch?v=YerQ1lYejNc&t=11s.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE" width="240" height="180" border="10" /></a>
 
 ### Subsection 4.1: How is this related to Revolutionary Fashion History?
 It isn't. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Sed tempus urna et pharetra pharetra massa massa. Et egestas quis ipsum suspendisse ultrices gravida. Vivamus arcu felis bibendum ut tristique. Volutpat ac tincidunt vitae semper quis lectus. Enim facilisis gravida neque convallis. Molestie ac feugiat sed lectus vestibulum mattis ullamcorper. Amet nisl suscipit adipiscing bibendum est ultricies integer quis auctor. Nisi lacus sed viverra tellus in hac habitasse. Enim ut tellus elementum sagittis vitae et.
@@ -39,7 +39,7 @@ Commodo nulla facilisi nullam vehicula ipsum a arcu. Id faucibus nisl tincidunt 
 ## Generator Links
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.[Lorem Ipsum Generator](https://loremipsumgenerator.com/generator/?n=4&t=)
 
-[^1][LMFGTFY](http://www.lmfgtfy.com)[^1] 
+[^1][LMFGTFY](http://www.lmfgtfy.com)
 
 Toad-like smile Flourish and Blotts he knew I’d come back Quidditch World Cup. Fat Lady baubles banana fritters fairy lights Petrificus Totalus. So thirsty, deluminator firs’ years follow me 12 inches of parchment. Head Boy start-of-term banquet Cleansweep Seven roaring lion hat. Unicorn blood crossbow mars is bright tonight, feast Norwegian Ridgeback. Come seek us where our voices sound, we cannot sing above the ground, Ginny Weasley bright red. Fanged frisbees, phoenix tears good clean match.[Harry Poter Ipsum Generator](http://www.christinachern.com/hpipsum/)
 
