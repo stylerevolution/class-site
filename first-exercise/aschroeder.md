@@ -15,9 +15,8 @@ Alohamora wand elf parchment, Wingardium Leviosa hippogriff, house dementors bet
 
 ![Alt text](http://cdn.playbuzz.com/cdn/1280f50c-cabc-4a4d-9f19-fac284d74e1a/4a99d295-8af6-4178-8398-13ff02380f4f.jpg)
 
-Non[^1] diam phasellus vestibulum lorem sed risus ultricies. Habitant morbi tristique senectus et netus et malesuada fames ac. Pulvinar mattis nunc sed blandit. Eget mauris pharetra et ultrices neque. Praesent tristique magna sit amet purus gravida. Dapibus ultrices in iaculis nunc sed augue. Diam ut venenatis tellus in metus. Quisque sagittis purus sit amet. Morbi quis commodo odio aenean sed adipiscing diam. Pellentesque diam volutpat commodo sed egestas. Risus ultricies tristique nulla aliquet. Ullamcorper sit amet risus nullam eget felis eget nunc lobortis. At ultrices mi tempus imperdiet nulla malesuada pellentesque. Accumsan tortor posuere ac ut consequat semper viverra nam. Et netus et malesuada fames ac turpis. Egestas fringilla phasellus faucibus scelerisque. Facilisis magna etiam tempor orci eu.
+Non diam phasellus vestibulum lorem sed risus ultricies. Habitant morbi tristique senectus et netus et malesuada fames ac. Pulvinar mattis nunc sed blandit. Eget mauris pharetra et ultrices neque. Praesent tristique magna sit amet purus gravida. Dapibus ultrices in iaculis nunc sed augue. Diam ut venenatis tellus in metus. Quisque sagittis purus sit amet. Morbi quis commodo odio aenean sed adipiscing diam. Pellentesque diam volutpat commodo sed egestas. Risus ultricies tristique nulla aliquet. Ullamcorper sit amet risus nullam eget felis eget nunc lobortis. At ultrices mi tempus imperdiet nulla malesuada pellentesque. Accumsan tortor posuere ac ut consequat semper viverra nam. Et netus et malesuada fames ac turpis. Egestas fringilla phasellus faucibus scelerisque. Facilisis magna etiam tempor orci eu.
 
-[^1]: Here is the first footnote. Translation *Non* is the French word meaning 'no'
 
 Mauris rhoncus aenean vel elit scelerisque. Malesuada nunc vel risus commodo viverra maecenas accumsan. Aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod. Aliquet enim tortor at auctor urna nunc id cursus metus. Ornare quam viverra orci sagittis eu volutpat odio. Nunc mi ipsum faucibus vitae aliquet nec. Tellus integer feugiat scelerisque varius morbi. Quam lacus suspendisse faucibus interdum. Montes nascetur ridiculus mus mauris vitae ultricies leo. Senectus et netus et malesuada fames. Diam sollicitudin tempor id eu.
 
@@ -53,6 +52,7 @@ Toad-like smile Flourish and Blotts he knew I’d come back Quidditch World Cup.
   </ol>
 </div>
 
-
+## Notes
+I tried to fix the footnotes and achieved a little bit of success but not totally. In terms of the video all I can do (after 4 trys) is to embed a link that links a user to the you tube video that I wanted to embedd. All in all I'm still rather frustrated... I followed markdown syntax cheatsheets as well as looked into google forum and what is produced now here is the best I can do
 
 
