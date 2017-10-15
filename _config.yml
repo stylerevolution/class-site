@@ -33,3 +33,7 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+collections:
+  first:
+    output: true
