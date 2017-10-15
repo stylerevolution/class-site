@@ -1,7 +1,8 @@
 --- 
-Title: File #2  
-Author: Jodi Mikesell  
-Date: September 18th, 2017
+layout: page
+title: File #2  
+author: Jodi Mikesell  
+date: September 18th, 2017
 ---
 
 <center> <h1>__Obstacles__ </h1> </center>

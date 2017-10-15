@@ -1,3 +1,8 @@
+---
+layout: page
+title: First Exercise
+---
+
 # OBSTACLES -Lorem Ipsum: Resistance in the Materials *Avery Schroeder*
 ## Embedding Image in Section 3
 I inserted the wrong code, clearly because my first iteration shows up on my md file as ! [alt text] (http://vignette2.wikia.nocookie.net/harrypotter/images/1/1d/Christmas_1992.jpg/revision/latest?cb=20080619200904)

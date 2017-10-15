@@ -37,3 +37,6 @@ exclude:
 collections:
   first:
     output: true
+  second: 
+    output: true
+    

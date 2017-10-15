@@ -1,4 +1,5 @@
 --- 
+layout: page
 title: "First Exercise: Fashion & the Museum"
 author: Meghan Collins
 date: october, 9 2017
@@ -7,7 +8,7 @@ date: october, 9 2017
 
 # First Exercise: Fashion and the Museum
 
-### Author: Meghan Marie Collins
+### author: Meghan Marie Collins
 <meghan.collins@columbia.edu>
 
 ## Section One: MoMA 

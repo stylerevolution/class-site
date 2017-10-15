@@ -1,4 +1,5 @@
 ---  
+layout: page
 title: Assignment 1 Obstacles
 author: Emily Cormack
 date: October 4, 2017 

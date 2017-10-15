@@ -1,7 +1,8 @@
 ---
-Title: Hebdon Obstacles
-Author: Bronte Hebdon
-Date: 2 October 2017
+layout: page
+title: Hebdon Obstacles
+author: Bronte Hebdon
+date: 2 October 2017
 ---
 
 ## Obstacles

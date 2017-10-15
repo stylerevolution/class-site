@@ -1,4 +1,5 @@
 ---
+layout: page
 title: FirstExercise
 author: Ana Karen Aguero Rojo
 date: October 6th, 2017

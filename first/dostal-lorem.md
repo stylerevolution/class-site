@@ -1,7 +1,8 @@
 ---
-Title: First Excercise
-Author: Zoe Dostal
-Date: October 10, 2017
+layout: page
+title: First Excercise
+author: Zoe Dostal
+date: October 10, 2017
 ---
 
 # My First Exercise

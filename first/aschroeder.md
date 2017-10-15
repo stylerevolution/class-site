@@ -1,7 +1,8 @@
 ---
-Title: First Exercise
-Author: Avery Schroeder
-Date: October 16, 2017
+layout: page
+title: First Exercise
+author: Avery Schroeder
+date: October 16, 2017
 ---
 
 # Lorem Ipsum: Resistance in the Materials  *Avery Schroeder*

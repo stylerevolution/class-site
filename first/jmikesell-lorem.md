@@ -1,7 +1,8 @@
 --- 
-Title: File #1  
-Author: Jodi Mikesell  
-Date: September 18th, 2017
+layout: page
+title: File #1  
+author: Jodi Mikesell  
+date: September 18th, 2017
 ---  
 
 <center> <h1>__Lorem ipsum__ </h1> </center>

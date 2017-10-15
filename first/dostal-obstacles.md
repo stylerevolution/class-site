@@ -1,3 +1,10 @@
+---
+layout: page
+title: First Excercise
+author: Zoe Dostal
+date: October 10, 2017
+---
+
 ## Obstacles
 ### Zoe Dostal
 

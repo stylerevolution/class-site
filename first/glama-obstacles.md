@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Obstacles (Glama)
 author: Barthélemy Glama
 date: October 6th, 2017

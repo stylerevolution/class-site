@@ -1,3 +1,10 @@
+--- 
+layout: page
+title: File #1  
+author: Ralston
+date: September 18th, 2017
+---
+
 # Tra Los Montes #
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus urna nisi, ornare ut urna ut, rutrum consequat massa. Morbi ac dui eget lacus tempus suscipit. Maecenas posuere nisl id iaculis gravida. Fusce non dolor consequat, ullamcorper risus id, luctus felis. Proin sed nisi ut neque mattis cursus. Vivamus aliquet ullamcorper lacus, vitae venenatis diam porttitor sit amet. Nulla euismod magna elit, eu bibendum risus ornare at. Vestibulum eleifend orci nec arcu finibus volutpat. Vivamus ullamcorper eros sit amet semper mattis. Curabitur a massa dignissim, convallis felis eget, sagittis mauris. Fusce pretium arcu nunc, quis scelerisque leo gravida dictum. Phasellus molestie imperdiet felis, et pellentesque odio dapibus quis. Nullam sit amet rhoncus elit. Curabitur malesuada, dui nec aliquam aliquam, dui mauris malesuada risus, ut aliquam ligula tortor aliquam neque.
