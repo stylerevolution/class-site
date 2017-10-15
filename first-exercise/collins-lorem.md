@@ -1,4 +1,5 @@
 --- 
+layout: post
 title: "First Exercise: Fashion & the Museum"
 author: Meghan Collins
 date: october, 9 2017
