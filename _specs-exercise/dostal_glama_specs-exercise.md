@@ -36,7 +36,7 @@ For my project I want to compare and contrast British fashion plates with JDM fa
 
 ## Specifications
 
-We have written our document together as a team project - "Bonaparteam" - for leaning GitHub, but our actual class projects will be separate. However, we are in similar states of resesarch right now, and our next steps will be to go to archives, libraries and museums to find primary materials. 
+We have written our document together as a team project - "Bonaparteam" - for learning GitHub, but our actual class projects will be separate. However, we are in similar states of resesarch right now, and our next steps will be to go to archives, libraries and museums to find primary materials. 
 
 
 
