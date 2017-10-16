@@ -4,6 +4,7 @@ title: "First Exercise"
 author: Ana Karen Aguero Rojo
 ---
 
+by {{ page.author }}
 
 ## Section 1
 
