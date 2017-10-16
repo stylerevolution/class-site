@@ -1,6 +1,6 @@
 ---
 layout: page
-title: First Excercise
+title: obstacles
 author: Zoe Dostal
 ---
 
