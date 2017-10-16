@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Bronte Hebdon Resistance
+title: Resistance
+author: Bronte Hebdon
 ---
 
-# Section 1
+## Section 1
 Fingerstache sustainable +1 authentic you probably haven't heard of them
 kickstarter poke subway tile jean shorts pork belly. Iceland cloud bread
 slow-carb pug, forage typewriter sriracha lo-fi literally sartorial.
@@ -25,6 +26,8 @@ rights drinking vinegar vexillologist mlkshk selfies chillwave. Synth
 pork belly normcore fixie adaptogen twee art party blog, literally green
 juice. Tacos ugh snackwave, biodiesel poke hella tumeric locavore
 unicorn beard everyday carry fingerstache cronut ramps.
+
+### subsection added by Alex
 
 Farm-to-table freegan gluten-free cornhole, fingerstache taxidermy cred.
 Tumeric raw denim keffiyeh +1 taiyaki. Wolf listicle quinoa blue bottle
@@ -82,9 +85,9 @@ A sentence that needs a note.[^1]
 
 image caption
 
-# Section 2.[^2]
+## Section 2.
 
-Umami lumbersexual fixie blue bottle truffaut PBR&B schlitz meh. Bicycle
+Umami lumbersexual fixie[^2] blue bottle truffaut PBR&B schlitz meh. Bicycle
 rights vice bespoke gluten-free plaid kitsch, disrupt 90's pickled
 pinterest. Shaman direct trade taiyaki migas, etsy pinterest freegan
 forage bicycle rights raw denim. Cold-pressed fam palo santo slow-carb
@@ -117,9 +120,9 @@ mug. Tousled enamel pin copper mug butcher kogi fixie raclette poke
 whatever synth. Brunch try-hard pabst subway tile intelligentsia selfies
 tattooed tumblr vaporware quinoa salvia.
 
-# Section 3.[^3]
+## Section 3.
 
-Prism street art try-hard, cloud bread kinfolk fixie activated charcoal
+Prism street art try-hard,[^3] cloud bread kinfolk fixie activated charcoal
 truffaut cliche lomo. Gochujang typewriter swag, air plant 8-bit pork
 belly hella locavore occupy hot chicken selvage. Godard copper mug
 mixtape migas taxidermy hashtag listicle lomo. Selfies disrupt swag,
@@ -168,6 +171,8 @@ letterpress. Artisan iceland hell of try-hard tofu. Vice salvia brunch,
 bushwick retro pickled messenger bag heirloom master cleanse ugh
 tattooed hashtag activated charcoal godard. Gochujang master cleanse
 cray narwhal.
+
+---
 
 [^1]:my first footnote! And a [link](https://morganlibrary.org/).
 
