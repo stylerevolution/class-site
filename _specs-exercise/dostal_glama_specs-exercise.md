@@ -4,6 +4,7 @@ title: Specs Requirement Exercise
 authors: Barthélemy Glama and Zoe Dostal
 ---
 
+
 # User Stories 
 
 ## Zoe Dostal 
@@ -16,8 +17,5 @@ For my project I want to compare and contrast British fashion plates with JDM fa
 * Potentially identify key caricatures, oil paintings, and/or other artworks to complement my primary material of fashion plates
 * Come up with a (manageably sized! 5-8?) list of points of comparison (ie. specific hats, specific dress styles etc.)
 * Using photoshop create a simple, visually appealing grid of these points of comparison so that when each item is selected it will lead to a second grid specific to that item with clickable images (fashion plates, portraits, caricatures etc.) that will each reveal more about the significance of that clothing item in London vs. Paris.
-
-
-
 
 
