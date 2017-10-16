@@ -21,5 +21,5 @@ authors: Barthélemy Glama and Zoe Dostal
 - I probably need to think about a glossary of technical terms used to define such costumes, to compare and contrast the language of clothing in political discourses and fashion magazines.
 - I would like to look at the evolution of official masculine costumes, from David's project to Napoleon's uniform as Premier Consul, to see how and at what stage the influence of fashion is involved.
 
-## Specifications
+## Specifications ##
 
