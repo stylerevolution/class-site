@@ -2,7 +2,6 @@
 layout: page
 title: First Excercise
 author: Zoe Dostal
-date: October 10, 2017
 ---
 
 # My First Exercise

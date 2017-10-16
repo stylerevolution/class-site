@@ -2,7 +2,6 @@
 layout: page
 title: First Exercise obstacles
 author: Ana Karen Aguero Rojo
-date: October 6th, 2017
 ---
 
 # aguerorojo-obstacles.md

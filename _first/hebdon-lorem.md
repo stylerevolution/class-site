@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Bronte Hebdon Resistance
-date: 30 September 2017
 ---
 
 # Section 1

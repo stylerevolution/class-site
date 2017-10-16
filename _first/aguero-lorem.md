@@ -1,8 +1,7 @@
 ---
 layout: page
-title: FirstExercise
+title: "First Exercise"
 author: Ana Karen Aguero Rojo
-date: October 6th, 2017
 ---
 
 # aguerorojo-lorem.md

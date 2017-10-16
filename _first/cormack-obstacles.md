@@ -1,8 +1,7 @@
 ---  
 layout: page
 title: Assignment 1 Obstacles
-author: Emily Cormack
-date: October 4, 2017 
+author: Emily Cormack 
 ---  
 
 * The main thing I had a problem with was whether to insert spaces after or before each of the footnotes/images I added. I had to go through a few trial and error sessions where I would add something and check that it showed up correctly in a Word Document or PDF and I think I finally got it.

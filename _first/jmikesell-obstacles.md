@@ -2,7 +2,6 @@
 layout: page
 title: File #2  
 author: Jodi Mikesell  
-date: September 18th, 2017
 ---
 
 <center> <h1>__Obstacles__ </h1> </center>

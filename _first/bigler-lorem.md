@@ -1,7 +1,6 @@
 ---
 title: Resistance in the Materials the Harry Potter edition
 author: Sarah Bigler
-date: October 2, 2017
 ---
 
 # **Section 1**

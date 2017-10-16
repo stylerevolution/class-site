@@ -2,7 +2,6 @@
 layout: page
 title: Assignment 1 - Resistance in the materials
 author: Emily Cormack 
-date: October 4, 2017 
 ---
 
 # Section 1  

@@ -2,7 +2,6 @@
 layout: page
 title: File #1  
 author: Ralston
-date: September 18th, 2017
 ---
 
 # Tra Los Montes #

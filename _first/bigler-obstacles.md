@@ -2,7 +2,6 @@
 layout: page
 title: Obstacles
 author: Sarah Bigler
-date: October 2, 2017
 ---
 
 # **Overview/Response**

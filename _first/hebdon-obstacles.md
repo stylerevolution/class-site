@@ -2,7 +2,6 @@
 layout: page
 title: Hebdon Obstacles
 author: Bronte Hebdon
-date: 2 October 2017
 ---
 
 ## Obstacles
