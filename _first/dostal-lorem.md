@@ -4,23 +4,20 @@ title: First Excercise
 author: Zoe Dostal
 ---
 
-# My First Exercise
 
-### By Zoe Dostal
-<azd2103@columbia.edu>
+## Section 1
 
 [Class Schedule](https://stylerevolution.github.io/class-site/schedule/)
 
 [![Napoleon](https://d9y2r2msyxru0.cloudfront.net/sites/default/files/styles/collection_object_bootstrap_carousel_/public/256274-1330622495.jpg?itok=Kf1J81qv "Napoleon at Fontainebleau")](https://www.royalcollection.org.uk/collection/405838/napoleon-at-fontainebleau-31-march-1814)
 
-## Section 1
 This wasn't there! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris molestie vel velit et luctus. Sed porta augue neque, non rhoncus lectus euismod et. Quisque eu enim eu tortor sodales venenatis volutpat at lorem. Nullam lacinia, nisl id laoreet imperdiet, justo arcu imperdiet nisl, at commodo nunc sem ac nulla. Curabitur posuere, nulla vitae malesuada sollicitudin, erat nisl semper ante, sit amet pulvinar ex sem ut justo. In semper aliquet felis vel scelerisque. Mauris aliquet ullamcorper metus eu blandit. Sed interdum felis eget vestibulum dictum. Fusce pellentesque maximus venenatis.
 
 > Donec et metus placerat, accumsan velit sit amet, blandit mi. Nulla facilisi. Quisque congue sem vitae ultricies elementum. Integer convallis, urna non convallis vehicula, erat dolor tempus tellus, at iaculis nunc nunc sed neque. Morbi ullamcorper vulputate molestie. Phasellus quis diam urna. Maecenas vitae venenatis nisl. Nam neque nunc, luctus a fringilla sed, aliquet vel felis. Fusce mi turpis, feugiat sed eros eu, viverra pellentesque dolor. Nulla lacus lorem, fermentum ut nisi et, venenatis lobortis lorem.[^1]
 
 Integer ac faucibus eros, commodo mattis enim. Nulla facilisi. Etiam a lacus malesuada, mollis nisl sit amet, feugiat dolor. Etiam feugiat, enim ut aliquet placerat, est dolor viverra lorem, vitae gravida turpis tellus in quam. Nulla lobortis vel nibh ut consectetur. Ut quis condimentum nisi. Nullam vel lacinia arcu. Integer ultricies risus leo, commodo malesuada quam tincidunt a.
 
-### *Subsection 1* 
+### Subsection 1
 Fusce bibendum, lacus eget ultricies tincidunt, velit diam varius libero, ut congue ante risus non tortor. Nunc pellentesque justo eu felis lacinia varius. Sed elit nunc, accumsan id congue in, pellentesque eu ante. Donec ac ante enim. Aliquam ut fringilla leo. Proin non varius massa. Mauris sit amet urna ac augue fringilla rhoncus eu sed odio.
 
 Donec at semper quam. Sed id tempor lorem, non cursus magna. Curabitur dignissim risus ut augue consequat, vel commodo tellus tempus. Nullam ut ex pretium, mattis quam at, placerat metus. Curabitur vehicula purus nisl, quis venenatis quam finibus hendrerit. Vestibulum id gravida lacus. Mauris mattis purus ac leo molestie, eu varius magna accumsan. Nunc ultricies facilisis arcu at euismod. Cras at nibh ut lacus eleifend dictum. Suspendisse eros lectus, commodo in tellus non, iaculis convallis velit. Nunc odio mi, posuere non risus et, dapibus viverra felis. Donec sit amet dui quis enim blandit accumsan et sit amet lorem. Nam ut feugiat ipsum. Proin in scelerisque orci. Duis tincidunt lacus quis nunc faucibus tempus.
@@ -72,13 +69,13 @@ Praesent in justo porta, ultrices massa in, euismod turpis. Suspendisse ac nibh 
 ### *Subsection 3*
 Duis ac vehicula elit, non congue lacus. Integer in commodo enim. Sed ultricies, tortor et egestas malesuada, ex libero facilisis lorem, sed facilisis ipsum erat eget tortor. Praesent eleifend, massa egestas fermentum ultrices, dui lacus posuere nulla, id interdum purus nisl ac libero. Nullam id enim ante. Phasellus enim mauris, gravida nec risus id, sodales ornare risus. Integer in viverra dui. Vivamus tempus felis leo, eget cursus nulla ornare sit amet. Fusce vel ante sed diam pulvinar fermentum sit amet in mi. Quisque a urna suscipit, semper ipsum vel, rutrum lorem. Donec velit lectus, sollicitudin eget nibh et, lacinia tempor purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc mollis lorem eget sollicitudin egestas. Sed ex augue, volutpat egestas neque nec, dapibus rutrum tellus. Morbi porta, eros nec aliquam lacinia, felis dolor fringilla nisi, sit amet pharetra lorem tortor in arcu. Aenean non faucibus dui, vitae pellentesque justo.
 
-#### **Subsection A**
+#### Subsection A
 Nullam tempor posuere viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque neque dui, egestas vel leo ut, faucibus ultrices erat. Cras pulvinar congue elit, eget egestas turpis maximus sed. Duis mattis lacus eu sagittis rutrum. In quis libero magna. Curabitur eu erat aliquam, vehicula tellus sit amet, lacinia neque. Integer gravida sed enim nec venenatis. Integer odio dolor, egestas non nunc vitae, feugiat interdum nunc. Curabitur sollicitudin, nibh ut pharetra auctor, purus ex ultricies lectus, non placerat enim dui in turpis. Nam sed ligula sit amet lacus eleifend pulvinar.
 
-#### **Subsection B**
+#### Subsection B
 Vestibulum a sem finibus, faucibus eros quis, tempus elit. Nullam rutrum tortor felis, tristique vehicula magna tempor ac. Morbi non fringilla dolor, sit amet vestibulum lectus. Ut viverra velit a turpis vulputate ullamcorper. Ut dictum iaculis nibh, at consequat nisl tristique at. Pellentesque sollicitudin ornare libero nec euismod. Donec at ultricies nibh, aliquet semper purus. Nam vel nisl mi. Aliquam quam tortor, ullamcorper quis mi id, vestibulum suscipit nulla. Maecenas at euismod leo. Morbi vel velit nec magna aliquet egestas. Maecenas nec metus egestas, pharetra risus ut, hendrerit leo.
 
-#### **Subsection C**
+#### Subsection C
 Maecenas sed neque laoreet lectus sodales commodo. Nulla consectetur dolor diam, non egestas mauris mollis ac. Nulla in felis quis nisi sodales mattis congue in odio. Ut sodales feugiat est, et fermentum nibh fringilla eget. Curabitur consectetur vehicula hendrerit. Sed non nisl aliquet, efficitur elit quis, pharetra mauris. Aliquam quis magna a augue aliquet vulputate. Vivamus turpis purus, interdum sit amet suscipit sed, rutrum vitae lacus. Nam id dui posuere, mollis risus quis, eleifend lorem. In lorem purus, rutrum et tempus ut, imperdiet sit amet nisl. Vivamus facilisis libero nec ex rhoncus, aliquam malesuada augue suscipit. Aenean laoreet nec nibh ac vulputate.
 
 ***
@@ -110,5 +107,5 @@ Phasellus fermentum pharetra urna. Mauris elementum nulla ut semper suscipit. Ut
 
 Nulla ante purus, placerat a nisi vehicula, tempor vulputate dolor. Duis vitae tincidunt nibh, ut iaculis diam. Cras tincidunt dolor sed felis tincidunt, a pharetra diam semper. Phasellus rutrum, libero vel cursus dignissim, mauris purus viverra erat, nec porttitor dolor nisl ac arcu. Nam imperdiet nisi nec felis.
 
-[^1]:footnote
-[^2]:footnote
+[^1]: footnote
+[^2]: footnote

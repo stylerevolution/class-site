@@ -13,4 +13,6 @@ as a footnote below, which is very frustrating. I tried to find a solution for a
 * The image took some time to perfect, but it was just a matter of making sure I was linking to the photograph and not a website...
 steep learning curve over here! But I got there in the end and was pretty pleased (The image is even a link! Fancy!)
 
+**Ha! You did great. Apparently not steep enough to stop you. I will go over the footnotes with the class.**
+
 [^1]: And now it's behaving differently in this document. I definitely need a footnote tutorial.
