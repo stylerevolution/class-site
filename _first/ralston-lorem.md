@@ -1,7 +1,7 @@
 --- 
 layout: page
 title: File #1  
-author: Ralston
+author: Daniel Ralston
 ---
 
 # Tra Los Montes #

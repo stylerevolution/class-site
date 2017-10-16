@@ -1,6 +1,7 @@
 ---
 layout: page
 title: second
+author: Daniel Ralston
 ---
 
 ## Obstacles
