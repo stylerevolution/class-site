@@ -5,3 +5,5 @@ authors: Barthélemy Glama and Zoe Dostal
 ---
 
 ## Zoe Dostal ##
+
+## Barthélemy Glama
