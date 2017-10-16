@@ -1,20 +1,18 @@
 --- 
 layout: page
-title: File #1  
+title: First File
 author: Jodi Mikesell  
 ---  
 
-<center> <h1>__Lorem ipsum__ </h1> </center>
+## Section 1  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel quam lorem. Duis elementum metus eget arcu scelerisque, eu dapibus odio posuere. Morbi mattis lacus eu ipsum interdum malesuada. In consectetur ipsum nunc, eu tristique quam feugiat ut. Quisque in semper arcu, ut ullamcorper sem. Maecenas lacus mauris, venenatis eget magna id, eleifend suscipit sapien. Pellentesque ac varius velit, eget fermentum sapien.[^1] Proin euismod tellus nec augue bibendum laoreet. Nunc commodo neque et augue vehicula, sed varius nisl aliquet. Sed venenatis tristique dui, non euismod sapien commodo non. Maecenas vitae odio ac felis laoreet efficitur. Nam auctor neque felis, nec suscipit lorem interdum id. Vestibulum euismod justo et lobortis fringilla. Pellentesque mauris tellus, placerat at rhoncus non, volutpat eget eros. Etiam congue in nisl vitae elementum. Praesent auctor nisl ligula, vitae porta odio scelerisque sed.
 
-# Section 1  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel quam lorem. Duis elementum metus eget arcu scelerisque, eu dapibus odio posuere. Morbi mattis lacus eu ipsum interdum malesuada. In consectetur ipsum nunc, eu tristique quam feugiat ut. Quisque in semper arcu, ut ullamcorper sem. Maecenas lacus mauris, venenatis eget magna id, eleifend suscipit sapien. Pellentesque ac varius velit, eget fermentum sapien.[^1] Proin euismod tellus nec augue bibendum laoreet. Nunc commodo neque et augue vehicula, sed varius nisl aliquet. Sed venenatis tristique dui, non euismod sapien commodo non. Maecenas vitae odio ac felis laoreet efficitur. Nam auctor neque felis, nec suscipit lorem interdum id. Vestibulum euismod justo et lobortis fringilla. Pellentesque mauris tellus, placerat at rhoncus non, volutpat eget eros. Etiam congue in nisl vitae elementum. Praesent auctor nisl ligula, vitae porta odio scelerisque sed. [^1] 
-
-## Subsection 1.1: Burninating
+### Subsection 1.1: Burninating
 Phasellus finibus bibendum nibh. Aenean suscipit vehicula odio, sit amet egestas magna pellentesque sit amet.<sup>[2](#myfootnote2)</sup> Donec id dignissim tellus. Sed id nunc nec lorem blandit mollis in eget ante. Curabitur pretium ipsum nibh, eu lacinia lectus aliquet vel. Curabitur euismod accumsan efficitur. Sed blandit orci tortor, placerat finibus nibh convallis in. 
 
 [Burninated!](http://homestarrunner.com/sbemail58.html)
 
-## Subsection 1.2: *The "Citoyenne" Tallien: Women, Politics, and Portraiture during the French Revolution*
+### Subsection 1.2: *The "Citoyenne" Tallien: Women, Politics, and Portraiture during the French Revolution*
 Curabitur suscipit et dui at ornare. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Curabitur vitae egestas metus. Integer lectus orci, tristique sed dictum id, volutpat sit amet sapien.<sup>[3](#myfootnote3)</sup> Nulla bibendum, erat a malesuada ultricies, leo ligula lobortis nisl, ut vehicula tortor lorem ac risus. Nunc convallis enim a ipsum aliquet rhoncus. Nullam pretium ullamcorper fringilla. Sed nec hendrerit sapien. Cras et dui feugiat, gravida erat a, aliquam ante. 
 
 [The "Citoyenne" Tallien: Women, Politics, and Portraiture during the French Revolution](https://www.jstor.org/stable/pdf/23046580.pdf)
@@ -24,7 +22,7 @@ Vestibulum rutrum mi sit amet massa ullamcorper, nec viverra tellus varius. Nam 
 
 ![Image #1:**Image #1: The Lorem Ipsumest**](https://iwsmt-content-ok2nbdvvyp8jbrhdp.stackpathdns.com/22520131835140.jpg)
 
-## Subsection 2.1: *The Sartorial Self: Neoclassical Fashion and Gender Identity in France, 1797-1804*
+### Subsection 2.1: *The Sartorial Self: Neoclassical Fashion and Gender Identity in France, 1797-1804*
 Duis maximus semper varius. Sed dapibus mi vitae molestie ullamcorper. Proin ac ligula ut purus mattis rhoncus. Suspendisse eu lobortis lacus. Nam quis diam metus. Sed mattis tellus in tempor congue. Donec eget felis lacinia, commodo eros dapibus, tempor dui. Quisque placerat lorem nunc, a commodo arcu bibendum sed. Aliquam porta iaculis neque. Pellentesque sollicitudin massa quis nibh sagittis, blandit malesuada orci ultricies. 
 
 Aliquam turpis mi, posuere ut metus vel, tristique condimentum lacus. Donec mattis posuere erat, sit amet elementum eros posuere sed. Cras libero neque, finibus at lorem nec, auctor semper ex. Integer quis gravida purus, non pellentesque ligula. Etiam sagittis felis sed erat rutrum, nec aliquet tellus iaculis. Sed nisi massa, imperdiet in porta at, aliquet eu est. Aenean molestie luctus quam, ut volutpat eros sollicitudin quis. Donec ut ante quis nisi ornare dapibus non in sapien.<sup>[5](#myfootnote5)</sup> Sed sodales neque sit amet urna ultricies dignissim ac sit amet enim. Nulla scelerisque lectus neque, eu vestibulum diam faucibus vel. Maecenas ac dolor quis lacus bibendum mattis. Praesent vulputate mi non augue efficitur commodo.
@@ -87,9 +85,3 @@ Maecenas pulvinar tempus tellus vel elementum. In varius aliquet pulvinar. In vu
 
 ### Footnotes
 [^1]: my first footnote! And a [link](https://www.eff.org/).  
-<a name="myfootnote2"><sup>2</sup></a> Footnote #2  
-<a name="myfootnote3"><sup>3</sup></a> Footnote #3  
-<a name="myfootnote4"><sup>4</sup></a> Footnote #4  
-<a name="myfootnote5"><sup>5</sup></a> Footnote #5  
-<a name="myfootnote6"><sup>6</sup></a> Footnote #6  
-<a name="myfootnote7"><sup>7</sup></a> Footnote #7

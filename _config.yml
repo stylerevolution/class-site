@@ -37,6 +37,6 @@ exclude:
 collections:
   first:
     output: true
-  second: 
+  specs-exercise: 
     output: true
     
