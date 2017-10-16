@@ -1,12 +1,12 @@
 ---  
 layout: page
-title: Assignment 1 - Resistance in the materials
+title: Resistance in the materials
 author: Emily Cormack 
 ---
 
-# Section 1  
+## Section 1  
 
-## Subsection 1.1  
+### Subsection 1.1  
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
@@ -20,7 +20,7 @@ Mauris sed varius metus, vel placerat est. Nulla facilisi. Ut sagittis urna ut l
 
 Donec arcu ex, cursus in dignissim in, laoreet vel metus. Duis sagittis massa sit amet enim mattis, vel laoreet orci mattis. Suspendisse potenti. Aliquam ut nisl sit amet neque ullamcorper auctor id eget magna. Etiam egestas non mauris sit amet tristique. Nullam blandit enim a convallis faucibus. Mauris volutpat ac mi nec luctus. Etiam porta finibus lacus, quis mollis odio tincidunt eu. Phasellus augue erat, tempus a dolor at, ullamcorper placerat est. Cras ut est dolor.
 
-## Subsection 1.2
+### Subsection 1.2
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non placerat urna. Morbi pretium velit elit, non lobortis enim hendrerit nec. Duis pretium magna tincidunt tortor scelerisque fermentum. Cras nec ornare ipsum, a fringilla nibh. Aliquam erat volutpat. Cras varius quam in elit feugiat scelerisque. Aliquam ullamcorper imperdiet ultricies. Cras facilisis lectus at tempor lacinia. Nullam sem eros, congue quis tellus ac, consectetur ultricies arcu. Etiam commodo nibh odio, at fermentum sapien maximus nec. Aliquam erat volutpat. Nulla facilisi. Morbi maximus dolor ut ligula aliquam, et lobortis tellus convallis. Ut porttitor lacus metus.
 
@@ -32,7 +32,7 @@ Mauris sed varius metus, vel placerat est. Nulla facilisi. Ut sagittis urna ut l
 
 Donec arcu ex, cursus in dignissim in, laoreet vel metus. Duis sagittis massa sit amet enim mattis, vel laoreet orci mattis. Suspendisse potenti. Aliquam ut nisl sit amet neque ullamcorper auctor id eget magna. Etiam egestas non mauris sit amet tristique. Nullam blandit enim a convallis faucibus. Mauris volutpat ac mi nec luctus. Etiam porta finibus lacus, quis mollis odio tincidunt eu. Phasellus augue erat, tempus a dolor at, ullamcorper placerat est. Cras ut est dolor.
 
-# Section 2
+## Section 2
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non placerat urna. Morbi pretium velit elit, non lobortis enim hendrerit nec. Duis pretium magna tincidunt tortor scelerisque fermentum. Cras nec ornare ipsum, a fringilla nibh. Aliquam erat volutpat. Cras varius quam in elit feugiat scelerisque. Aliquam ullamcorper imperdiet ultricies. Cras facilisis lectus at tempor lacinia. Nullam sem eros, congue quis tellus ac, consectetur ultricies arcu. Etiam commodo nibh odio, at fermentum sapien maximus nec. Aliquam erat volutpat. Nulla facilisi. Morbi maximus dolor ut ligula aliquam, et lobortis tellus convallis. Ut porttitor lacus metus.
 
@@ -56,7 +56,7 @@ Mauris sed varius metus, vel placerat est. A sentence that needs a note.<a href=
 
 Donec arcu ex, cursus in dignissim in, laoreet vel metus. Duis sagittis massa sit amet enim mattis, vel laoreet orci mattis. Suspendisse potenti. Aliquam ut nisl sit amet neque ullamcorper auctor id eget magna. Etiam egestas non mauris sit amet tristique. Nullam blandit enim a convallis faucibus. Mauris volutpat ac mi nec luctus. Etiam porta finibus lacus, quis mollis odio tincidunt eu. Phasellus augue erat, tempus a dolor at, ullamcorper placerat est. Cras ut est dolor.
 
-## Subsection 2.1  
+### Subsection 2.1  
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non placerat urna. Morbi pretium velit elit, non lobortis enim hendrerit nec. Duis pretium magna tincidunt tortor scelerisque fermentum. Cras nec ornare ipsum, a fringilla nibh. Aliquam erat volutpat. Cras varius quam in elit feugiat scelerisque. Aliquam ullamcorper imperdiet ultricies. Cras facilisis lectus at tempor lacinia. Nullam sem eros, congue quis tellus ac, consectetur ultricies arcu. Etiam commodo nibh odio, at fermentum sapien maximus nec. Aliquam erat volutpat. Nulla facilisi. Morbi maximus dolor ut ligula aliquam, et lobortis tellus convallis. Ut porttitor lacus metus.
 
@@ -78,8 +78,10 @@ Mauris sed varius metus, vel placerat est. Nulla facilisi. Ut sagittis urna ut l
 
 Donec arcu ex, cursus in dignissim in, laoreet vel metus. Duis sagittis massa sit amet enim mattis, vel laoreet orci mattis. Suspendisse potenti. Aliquam ut nisl sit amet neque ullamcorper auctor id eget magna. Etiam egestas non mauris sit amet tristique. Nullam blandit enim a convallis faucibus. Mauris volutpat ac mi nec luctus. Etiam porta finibus lacus, quis mollis odio tincidunt eu. Phasellus augue erat, tempus a dolor at, ullamcorper placerat est. Cras ut est dolor.
 
-Donec arcu ex, cursus in dignissim in, laoreet vel metus. Duis sagittis massa sit amet enim mattis, vel laoreet orci mattis. Suspendisse potenti. Aliquam ut nisl sit amet neque ullamcorper auctor id eget magna. Etiam egestas non mauris sit amet tristique. Nullam blandit enim a convallis faucibus. Mauris volutpat ac mi nec luctus. Etiam porta finibus lacus, quis mollis odio tincidunt eu. Phasellus augue erat, tempus a dolor at, ullamcorper placerat est. Cras ut est dolor.
+Donec arcu ex,[^f1] cursus in dignissim in, laoreet vel metus. Duis sagittis massa sit amet enim mattis, vel laoreet orci mattis. Suspendisse potenti. Aliquam ut nisl sit amet neque ullamcorper auctor id eget magna. Etiam egestas non mauris sit amet tristique. Nullam blandit enim a convallis faucibus. Mauris volutpat ac mi nec luctus. Etiam porta finibus lacus, quis mollis odio tincidunt eu. Phasellus augue erat, tempus a dolor at, ullamcorper placerat est. Cras ut est dolor.[^f2]
 
-<a id="note1" href="#note1ref"><sup>1</sup></a>My first footnote! And a [link](http://www.louvre.fr/en/oeuvre-notices/madame-recamier). Nulla facilisi. Ut sagittis urna ut lobortis mattis. Nam finibus nunc in nibh posuere tempus. Cras ac enim eu nunc consectetur sagittis at nec diam. In faucibus vestibulum massa venenatis aliquet. Pellentesque nisl odio, vestibulum convallis neque sed, convallis vulputate est. Donec lobortis sagittis viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam congue leo at justo imperdiet, id ultricies urna feugiat. Phasellus non porttitor velit, vel vehicula ipsum. Maecenas sodales imperdiet varius. Maecenas facilisis lorem ut ipsum consequat ullamcorper. Morbi aliquam accumsan enim eget suscipit. Nam vel tristique purus. Maecenas iaculis, leo in mattis aliquet, neque sem varius sapien, id semper urna nulla ac leo.
+---
 
-<a id="note2" href="#note2ref"><sup>2</sup></a>Footnote text. Donec arcu ex, cursus in dignissim in, laoreet vel metus. Duis sagittis massa sit amet enim mattis, vel laoreet orci mattis. Suspendisse potenti. 
+[^f1]: My first footnote! And a [link](http://www.louvre.fr/en/oeuvre-notices/madame-recamier). Nulla facilisi. Ut sagittis urna ut lobortis mattis. Nam finibus nunc in nibh posuere tempus. Cras ac enim eu nunc consectetur sagittis at nec diam. In faucibus vestibulum massa venenatis aliquet. Pellentesque nisl odio, vestibulum convallis neque sed, convallis vulputate est. Donec lobortis sagittis viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam congue leo at justo imperdiet, id ultricies urna feugiat. Phasellus non porttitor velit, vel vehicula ipsum. Maecenas sodales imperdiet varius. Maecenas facilisis lorem ut ipsum consequat ullamcorper. Morbi aliquam accumsan enim eget suscipit. Nam vel tristique purus. Maecenas iaculis, leo in mattis aliquet, neque sem varius sapien, id semper urna nulla ac leo.
+
+[^f2]: Footnote text. Donec arcu ex, cursus in dignissim in, laoreet vel metus. Duis sagittis massa sit amet enim mattis, vel laoreet orci mattis. Suspendisse potenti. 
