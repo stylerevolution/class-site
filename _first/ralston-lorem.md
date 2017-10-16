@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: File #1  
+title: First file  
 author: Daniel Ralston
 ---
 
@@ -20,7 +20,7 @@ Ut iaculis libero sed tempus maximus. Proin in lorem ac neque aliquet interdum a
 Praesent erat turpis, pretium eget fringilla at, bibendum congue eros. Donec porttitor luctus justo quis venenatis. In hendrerit blandit tortor. Donec efficitur ipsum lorem, non egestas eros vulputate quis. Cras sed velit vestibulum, sagittis ipsum quis, fermentum nulla. Phasellus fringilla dolor ac ullamcorper accumsan. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
 
 ### Part the Second, Chapter One ###
-Vestibulum lectus leo, tempus vel egestas et, efficitur nec magna. Cras ac lobortis velit. Ut ex orci, dapibus sit amet lacinia sit amet, porttitor ornare libero. Etiam at magna ac enim tincidunt scelerisque vel ut urna. Integer sed vestibulum enim. Fusce sapien metus, tempor ut orci ut, luctus condimentum ex. Integer fermentum risus non massa condimentum, ut vestibulum ex porttitor. Fusce elementum nunc non ipsum commodo, et finibus diam commodo. Sed id faucibus augue. Curabitur imperdiet placerat quam a convallis. Donec lacinia orci non molestie dapibus. Morbi sollicitudin est id augue semper imperdiet. Vestibulum erat odio, tristique et molestie ac, malesuada et urna.<a href="#note1" id="note1ref"><sup>1</sup></a>
+Vestibulum lectus leo, tempus vel egestas et, efficitur nec magna. Cras ac lobortis velit. Ut ex orci, dapibus sit amet lacinia sit amet, porttitor ornare libero. Etiam at magna ac enim tincidunt scelerisque vel ut urna. Integer sed vestibulum enim. Fusce sapien metus, tempor ut orci ut, luctus condimentum ex. Integer fermentum risus non massa condimentum, ut vestibulum ex porttitor. Fusce elementum nunc non ipsum commodo, et finibus diam commodo. Sed id faucibus augue. Curabitur imperdiet placerat quam a convallis. Donec lacinia orci non molestie dapibus. Morbi sollicitudin est id augue semper imperdiet. Vestibulum erat odio, tristique et molestie ac, malesuada et urna.[^f1]
 
 ![enter image description here](https://content3.cdnprado.net/imagenes/Documentos/imgsem/b4/b4a9/b4a9e888-d1c1-42f6-84ed-d282c6c9bac4/7e74a3d3-38cb-426e-8166-21cf3c8fe3b6.jpg)
 
@@ -38,11 +38,11 @@ Cras vel velit est. Mauris vestibulum justo vitae sollicitudin malesuada. Intege
 
 Vivamus vel enim aliquam, aliquam elit quis, tincidunt neque. Vivamus non nisl a sapien imperdiet malesuada. Sed laoreet congue tellus, non feugiat ipsum vestibulum sed. Sed ut orci non ipsum mollis scelerisque et ullamcorper nisl. Ut laoreet venenatis lacus, nec volutpat ex ultrices id. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec tempus ligula nec dui varius, vel semper nulla molestie. Duis sem massa, volutpat non rhoncus ac, tincidunt a dolor. Cras hendrerit turpis id eros gravida, eget faucibus orci egestas. Nunc dui tortor, consequat vel diam at, varius mattis felis. Fusce lacinia odio velit, at scelerisque quam rutrum sed. Curabitur ullamcorper malesuada ornare. Vivamus ultrices augue eget sapien molestie, vel condimentum ligula aliquam. Quisque sed consectetur lacus. Integer et magna eu urna ultrices hendrerit. Maecenas finibus maximus arcu eget tempus.
 
-In efficitur sem placerat, sagittis est vel, ornare lectus. Quisque sed laoreet enim, vitae suscipit elit. Nulla scelerisque lorem nec lobortis suscipit. Donec tempor fermentum pellentesque. Sed velit orci, molestie vel suscipit et, eleifend sit amet ligula. Nam justo enim, viverra quis rhoncus vel, mollis vel ante. Sed venenatis vehicula massa eget dictum.<a href="#note2" id="note2ref"><sup>2</sup></a>
+In efficitur sem placerat, sagittis est vel, ornare lectus. Quisque sed laoreet enim, vitae suscipit elit. Nulla scelerisque lorem nec lobortis suscipit. Donec tempor fermentum pellentesque. Sed velit orci, molestie vel suscipit et, eleifend sit amet ligula. Nam justo enim, viverra quis rhoncus vel, mollis vel ante. Sed venenatis vehicula massa eget dictum.[^f2]
 
 Nulla a magna eu felis pretium porta egestas vitae eros. Nunc porttitor commodo malesuada. In mattis vel erat vitae porta. Quisque varius augue enim, non viverra urna eleifend et. Aenean consectetur diam eget augue aliquet aliquam. Ut at libero scelerisque, euismod nisi sit amet, sollicitudin dui. Vestibulum dolor nunc, ornare nec tellus vel, dictum dictum mi.
 
-<a id="note1" href="#note1ref"><sup>1</sup></a> Modernipsum dolor sit amet neoism socialist realism romanesque, geometric abstraction fluxus stuckism naturalism abstract expressionism, realism post-impressionism relational art synthetism neo-dada.
+[^f1]: Modernipsum dolor sit amet neoism socialist realism romanesque, geometric abstraction fluxus stuckism naturalism abstract expressionism, realism post-impressionism relational art synthetism neo-dada.
 
-<a id="note2" href="#note2ref"><sup>2</sup></a> The characteristic theme of Prinn’s analysis of the conceptualist paradigm of narrative is the rubicon, and subsequent stasis, of neosemantic class. Any number of narratives concerning not, in fact, materialism, but prematerialism may be found. However, Debord uses the term "subcultural theory" to denote the role of the artist as poet.
+[^f2]: The characteristic theme of Prinn’s analysis of the conceptualist paradigm of narrative is the rubicon, and subsequent stasis, of neosemantic class. Any number of narratives concerning not, in fact, materialism, but prematerialism may be found. However, Debord uses the term "subcultural theory" to denote the role of the artist as poet.
 

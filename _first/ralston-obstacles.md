@@ -1,10 +1,9 @@
 ---
 layout: page
-title: second
+title: Obstacles
 author: Daniel Ralston
 ---
 
-## Obstacles
 
 - Didn't really know what Markdown was
 - Didn't know how/where to access Markdown
