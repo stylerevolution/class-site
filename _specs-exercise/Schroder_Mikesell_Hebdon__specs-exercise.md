@@ -25,6 +25,16 @@ Avery: have working color bar and linkable pages ready to go before thanksgiving
 
 Jodi: Finalize mapping architecture and needed technology before end of Oct. Create basic working structure before Thanksgiving. Create glossary collaboratively before end of Nov. Refine, refine, refine till end of project.
 
+**Avery Calendar:**
+October 23: First plate transcribed 
+October 30: Rest of plates transcribed, update on glossary, meet with Brontë
+November 6: Continue to collect information and research on color terms and work on the glossary
+November 13: Start building the glossary with Bronte for the website, all the while continuing to gather and research color terms
+November 20: Continue research for glossary, meet with Bronte, continue to build out glossary
+November 27: Continue research for glossary, check-in with Professor Higonnet regarding the editing front, add additional information on social implications/history of certain colors within their places in the glossary
+December 4: TBD, most likely editing phase, making sure all entries for material (Bronte) and color (Avery) adhere to design agreed upon and that information is consistent across the class website
+
+
 
 
 
