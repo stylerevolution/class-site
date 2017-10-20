@@ -26,13 +26,13 @@ Avery: have working color bar and linkable pages ready to go before thanksgiving
 Jodi: Finalize mapping architecture and needed technology before end of Oct. Create basic working structure before Thanksgiving. Create glossary collaboratively before end of Nov. Refine, refine, refine till end of project.
 
 **Avery Calendar:**
-October 23: First plate transcribed 
-October 30: Rest of plates transcribed, update on glossary, meet with Brontë
-November 6: Continue to collect information and research on color terms and work on the glossary
-November 13: Start building the glossary with Bronte for the website, all the while continuing to gather and research color terms
-November 20: Continue research for glossary, meet with Bronte, continue to build out glossary
-November 27: Continue research for glossary, check-in with Professor Higonnet regarding the editing front, add additional information on social implications/history of certain colors within their places in the glossary
-December 4: TBD, most likely editing phase, making sure all entries for material (Bronte) and color (Avery) adhere to design agreed upon and that information is consistent across the class website
+_October 23:_ First plate transcribed 
+_October 30:_ Rest of plates transcribed, update on glossary, meet with Brontë
+_November 6:_ Continue to collect information and research on color terms and work on the glossary
+_November 13:_ Start building the glossary with Bronte for the website, all the while continuing to gather and research color terms
+_November 20:_ Continue research for glossary, meet with Bronte, continue to build out glossary
+_November 27:_ Continue research for glossary, check-in with Professor Higonnet regarding the editing front, add additional information on social implications/history of certain colors within their places in the glossary
+_December 4:_ TBD, most likely editing phase, making sure all entries for material (Bronte) and color (Avery) adhere to design agreed upon and that information is consistent across the class website
 
 
 
