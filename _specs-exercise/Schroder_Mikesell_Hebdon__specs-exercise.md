@@ -27,6 +27,7 @@ Jodi: Finalize mapping architecture and needed technology before end of Oct. Cre
 
 **Avery Calendar:**
 __October 23:__ First plate transcribed 
+
 __October 30:__ Rest of plates transcribed, update on glossary, meet with Brontë
 __November 6:__ Continue to collect information and research on color terms and work on the glossary
 __November 13:__ Start building the glossary with Bronte for the website, all the while continuing to gather and research color terms
