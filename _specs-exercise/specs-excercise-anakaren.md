@@ -25,3 +25,25 @@ For my share in the project, I will photoshop the figures in the plates 58 until
 * Add some text to support the images and mapping project. Maybe thought bubbles that also pop-up in the images.
 
 
+## Weekly Agenda 
+
+
+Week | Date | Goal
+------| ------ |---------
+Week 7 |October 23 | Learn how to use photoshop and start translating most of my plates this week, a minimum of 10.  
+Depending on the images that Sarah is able to find I´m going to start working on photoshop in at least 2 places.
+------| ------ |---------
+Week 8 | October 30 |Meet with Alex to see what else I can do to help with the mapping project finish the translation for my plates and edit 4 places.
+------| ------ |---------
+Week 9| November 6 |  Continue working with the images: Photoshop 6 places.
+------| ------ |---------
+Week 10| November 13 | Continue working with the images: Photoshop 6 places.
+------| ------ |---------
+Week 11 | November 20 | Help with the integration of the project and help with the edition of the images.
+------| ------ |---------
+Week 12 | November 27 | Final Adjustments to the Map.
+------| ------ |---------
+Week 13 |December 4 |Final Exposition
+
+
+
