@@ -55,6 +55,27 @@ Week 12 | November 27 | Add all of Ana’s photoshoped images to the completed m
 ------| ------ |---------
 Week 13 |December 4 |Final Exposition
 
+# **My part of the project (Emma)**
+My contribution to the map project will involve attempting to map the production and distribution centers of the Journal des Dames et des Modes. Using the 1790 plan de P. Verniquet, I will mark the approximate locations listed in each issue of the JDM text, which include where one could subscribe to the journal (Chez Sellèque and Chez Dentu) as well as where it was printed (Imprimerie de Moller).  I hope to also include other locations listed by Kleinert that occur in JDM text we do not have access to, so that it may be possible to show how these locations changed over time. Because it is difficult to ascertain exact addresses on eighteenth-century maps such as those by Verniquet, I imagine it will be necessary to mark the appropriate location using something like a small transparent overlay circle. I would like these points to be clickable and provide text space for me to discuss the location, how Parisians may have accessed the JDM, and examples within the text where the journal is self-referential. 
+
+## **My Weekly Agenda (Emma)** 
+Week | Date | Goal
+------| ------ |---------
+Week 7 |October 23 | Look through available JDM text on Gallica to note all locations listed for journal offices and printers. Add locations to Sarah and Ana Karen’s list and mark their approximate locations on the period map.
+------| ------ |---------
+Week 8 | October 30 | Meet with Alex and Sarah about necessary skills for making interactive map.
+------| ------ |---------
+Week 9| November 6 | Work on map and determine what text/possible images are needed for pop-up informational overlays.
+------| ------ |---------
+Week 10| November 13 | Continue map work; have first half marked and have text written. 
+------| ------ |---------
+Week 11 | November 20 | Continue map work; add second half of my locations.
+------| ------ |---------
+Week 12 | November 27 | Final adjustments to hotspots and associated text.
+------| ------ |---------
+Week 13 |December 4 |Final Exposition
+
+
 
 # **Tasks to accomplish**
 * Learn how to use Photoshopin order to create a visual representation to reconstruct the way in which outfits were spotted.(Reality vs. Fiction)
