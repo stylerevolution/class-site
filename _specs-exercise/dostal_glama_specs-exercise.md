@@ -21,6 +21,17 @@ For my project I want to compare and contrast British fashion plates with JDM fa
 * Come up with a (manageably sized! 5-8?) list of points of comparison (ie. specific hats, specific dress styles etc.)
 * Using photoshop create a simple, visually appealing grid of these points of comparison so that when each item is selected it will lead to a second grid specific to that item with clickable images (fashion plates, portraits, caricatures etc.) that will each reveal more about the significance of that clothing item in London vs. Paris.
 
+### Timeline
+
+**October 23:** First plate translated, read July 1801 - June 1802 JDM text
+**October 30:** Nine plates translated, read July 1802 - June 1803 JDM text, identify 5 main themes/points of comparison
+**November 6:** First viewing of Gallery of Fashion, finalize 5 main themes/points of comparison, read June 1803-July 1804 JDM text, research themes
+**November 13:** Second viewing of Gallery of Fashion, finish JDM text, research themes
+**November 20:** Research themes, begin to build individual pages 
+**November 27:** Research themes, begin to build individual pages 
+**December 4:** Present final project
+
+
 ## Barthélemy Glama
 
 ### User stories
