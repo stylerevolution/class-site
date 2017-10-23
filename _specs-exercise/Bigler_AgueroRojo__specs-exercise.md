@@ -38,6 +38,24 @@ Week 13 |December 4 |Final Exposition
 # **My part of the project (Sarah)**
 I will be creating an interactive map of the fashion hot-spots cited on the plates of the Journal des Dames et des Modes. The map will use as its base the 1790 plan de P. Verniquet. I will mark the eighteen locations mentioned on the plates of the Journal. When users click on these marked locations a contemporary  image of the location will pop up. I have been researching the locations and compiling the contemporary images. I also hope to write an overview for the mark as well as perhaps a few sentences to accompany each location giving a brief summary of the location during this time period and its relationship to revolutionary fashion. 
 
+## **My Weekly Agenda (Sarah)** 
+Week | Date | Goal
+------| ------ |---------
+Week 7 |October 23 | Translate all my plates this week. Avery classics meeting on 23rd to view some more Vues de Paris, which may be better for Ana’s project than the ones from the Carnavalet. Confer with Emma about what other locations we are adding to the map for where the Journal was sold/read.
+------| ------ |---------
+Week 8 | October 30 | Meeting with Alex on the 30th to discuss the technologies necessary for building the map. Will have all images finalized by then. 
+------| ------ |---------
+Week 9| November 6 | Work on map: set-up, configuring etc.
+------| ------ |---------
+Week 10| November 13 | Work on map: add first half of the  locations. 
+------| ------ |---------
+Week 11 | November 20 | Work on map: adding second half of the locations.
+------| ------ |---------
+Week 12 | November 27 | Add all of Ana’s photoshoped images to the completed map.
+------| ------ |---------
+Week 13 |December 4 |Final Exposition
+
+
 # **Tasks to accomplish**
 * Learn how to use Photoshopin order to create a visual representation to reconstruct the way in which outfits were spotted.(Reality vs. Fiction)
 * Identify the locations listed on the plates 
