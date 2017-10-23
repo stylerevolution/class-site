@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Specs Requirement Exercise
-authors: Sarah Bigler and Ana Karen Aguero Rojo
+authors: Sarah Bigler, Ana Karen Aguero Rojo, and Emma Cormack
 ---
 
 # **Defining our project**
