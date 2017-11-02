@@ -1,17 +1,16 @@
 ---
 layout: page
 title: Napkin
-author: Avery Schroeder 
-author: Brontë Hebdon
+author: Avery Schroeder Brontë Hebdon
 ---
 <img class="alignnone size-full wp-image-19" src="https://sevresworkinprogress.files.wordpress.com/2017/11/img_1165.jpg" alt="IMG_1165" width="2873" height="2540" />
 This first picture shows a layout of what we envision the 'homepage' of the final website to be, with a mast head and a large open body page that will be filled with the project title and a description of the project. Aligned next to the masthead, we envision a toggle bar of links that take visitors to the plates, maps, color and textile glossary respectively. 
 
-<img src="https://sevresworkinprogress.files.wordpress.com/2017/11/img_1166.jpg" alt="IMG_1166" width="2944" height="2379" class="alignnone size-full wp-image-21"/>
+<img src="https://sevresworkinprogress.files.wordpress.com/2017/11/img_1166.jpg" alt="IMG_1166" width="1000" height="1000" class="alignnone size-full wp-image-21"/>
 This image is our basic design sketch of what the landing page of the Glossary will look like. The same masthead will follow throughout for continuity. On this landing page, a 100-150 word description of the purpose of the Glossary will be given followed by Color and Textile section links and their respective descriptions of purpose.
 
-<img src="https://sevresworkinprogress.files.wordpress.com/2017/11/img_1167.jpg" alt="IMG_1167" width="3024" height="1975" class="alignnone size-full wp-image-22"/>
+<img src="https://sevresworkinprogress.files.wordpress.com/2017/11/img_1167.jpg" alt="IMG_1167" width="1000" height="1000" class="alignnone size-full wp-image-22"/>
 In this sketch, an outline of the Color Glossary is given. Along the left hand side of the page it is imagined that thumbnails of respective colors will be placed next to their definitions to give visual impact and context. It is also imagined or hoped that we will be able to link certain colors to plates, hence the floating plate sketch on the right hand side of the page.
 
-<img src="https://sevresworkinprogress.files.wordpress.com/2017/11/img_1168.jpg" alt="IMG_1168" width="3024" height="2300" class="alignnone size-full wp-image-23"/>
+<img src="https://sevresworkinprogress.files.wordpress.com/2017/11/img_1168.jpg" alt="IMG_1168" width="1000" height="1000" class="alignnone size-full wp-image-23"/>
 This is the sketch for the landing page of the Textile Glossary which is to look much the same as the aforementioned color landing page, include thumbnails where possible along the left hand side of the page for visual and contextual reference. Within term and or definition, it is hoped to link appropriate plates, hence the floating plate on the right hand side
