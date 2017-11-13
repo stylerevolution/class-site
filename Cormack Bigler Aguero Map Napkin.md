@@ -8,7 +8,7 @@ date: November 7, 2017
 
 ## Map Layout
 
-This plan includes a pop-up window that would appear over the 1797 map when the user clicked on the "Mapping" section of the home page. This overlay would include a short description of our section, including information about Paris' fashionable spots and the locations on the map showing where the journal was produced and sold. This overlay would then disappear if the user clicks either the "x" at the top right or on the map behind. 
+This plan includes a pop-up window that would appear over the 1797 map when the user clicked on the "Mapping" section of the home page. This overlay would include a short description of our section, including information about Paris' fashionable spots and the locations on the map showing where the journal was produced and sold. This overlay would then disappear if the user clicks either the "x" at the top right or on the map behind. The user can also pull up this intro page again by clicking "About" in the upper right corner.
 
 ![Introduction View of Map.](http://fashionplaterevolution.org/hotspots/files/original/14eb5e44d5a007b8d9e3d25361fb8cbe.jpg)
 
